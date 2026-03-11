@@ -3,8 +3,8 @@ course_name: "ESE6150: RoboRacer Autonomous Racing Cars"
 course_description: "This hands-on course is for graduate students interested in the fields of robot perception, motion planning, control theory, and autonomous systems. It is also for students interested in the burgeoning field of autonomous driving. This course introduces the students to the hardware, software and algorithms involved in building and racing an autonomous race car. Every week, students participate in two lectures and complete an extensive hands-on lab. By week 6, the students will have built, programmed and driven a 1/10th scale autonomous race car, and learned fundamental principles in reactive planning. By week 10, they will learn simultaneous localization and mapping and efficient planning using pure pursuit. By week 16, students will develop and implement advanced racing strategies that will give their team the edge in the race that concludes the course. Topics include: selfdriving hardware, Robot Operating System, Electronic Speed Control, localization, scan matching, PID control, mapping, SLAM, racing lines, neural networks-based autonomous cars, visual feature extraction, autonomous transportation systems, learning based visual navigation, model-predictive control and ethical/moral decision making"
 course_semester: "Spring 2024"
 
-baseurl: "/6150-Spring2024-Website" # the subpath of your site, e.g. /blog/
-url: "http://AhmadAmine998.github.io/" # the base hostname & protocol for your site
+baseurl: "/ESE6150-Website" # the subpath of your site, e.g. /blog/
+url: "https://AhmadAmine998.github.io" # the base hostname & protocol for your site
 
 schoolname: "University of Pennsylvania"
 schoolurl: "https://www.ese.upenn.edu/"

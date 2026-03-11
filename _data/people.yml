@@ -1,16 +1,16 @@
 instructors:
   - name: Rahul Mangharam
-    profile_pic: /_images/pp/rahulm.jpeg
+    profile_pic: /images/pp/rahulm.jpeg
     webpage: https://www.seas.upenn.edu/~rahulm/
 
 teaching_assistants:
   - name: Ahmad Amine
-    profile_pic: /_images/pp/Ahmad.jpg
+    profile_pic: /images/pp/Ahmad.jpg
     webpage: https://ahmadamine998.github.io/
 
   - name: Zhijun Zhuang
-    profile_pic: /_images/pp/Zhijun.jpg
+    profile_pic: /images/pp/Zhijun.jpg
     webpage: https://zzjun725.github.io/cv/
 
   - name: Derek Zhou
-    profile_pic: /_images/pp/Derek.png
+    profile_pic: /images/pp/Derek.png
